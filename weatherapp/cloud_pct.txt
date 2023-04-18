@@ -1,0 +1,9 @@
+cloud_pct
+feeles_like
+humidity
+max_temp
+sunrise
+sunset
+max_temp
+wind_degrees
+wind_speed
